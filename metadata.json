@@ -1,0 +1,6 @@
+{
+  "name": "3D Toolpath Visualizer",
+  "description": "An interactive 3D visualizer to calibrate, inspect, and verify CNC or 3D printing toolpaths from 5-column CSV data files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
